@@ -26,3 +26,11 @@ Open `index.html` and search for:
 - The 3D scene uses Three.js from cdnjs, so the first load needs internet access.
 - The layout adapts to phones, tablets, and desktop screens.
 - The 3D animation respects reduced-motion preferences only for CSS transitions; the 3D scene remains subtle.
+
+
+## Motion effects
+- Animated typewriter headline
+- Responsive particle-and-connection background
+- Continuously scrolling expertise ticker
+- Subtle 3D hover tilt on project and skill cards
+- Reduced-motion accessibility support
